@@ -1,0 +1,40 @@
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionStartPseudoState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionFinalPseudoState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionJunctionPseudoState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionForkPseudoState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionJoinPseudoState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionSwimlane()
+M:Object org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getStateMachine()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionCallState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionObjectFlowState()
+M:Object[] org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getTriggerActions()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionCallEvent()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionChangeEvent()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionSignalEvent()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionTimeEvent()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionGuard()
+M:Object[] org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getEffectActions()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionCallAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionCreateAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionDestroyAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionReturnAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionSendAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionTerminateAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionUninterpretedAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionActionSequence()
+M:Mode org.argouml.uml.diagram.activity.ui.ActionCreatePartition.createMode(String)
+P:Click to place New Swimlane
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@1caa3ec9
+P:org.tigris.gef.base.LayerPerspectiveMutable@3085867f[untitledModel]
+P:Partition$Impl  ID: -84-20-10-5--1dcfbbef:16529a5c495:-8000:0000000000000976  MID: -84-20-10-5--1dcfbbef:16529a5c495:-8000:00000000000005DF  OPCKG: -84-20-10-5--1dcfbbef:16529a5c495:-8000:0000000000000878
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:Partition$Impl  ID: -84-20-10-5--1dcfbbef:16529a5c495:-8000:0000000000000976  MID: -84-20-10-5--1dcfbbef:16529a5c495:-8000:00000000000005DF  OPCKG: -84-20-10-5--1dcfbbef:16529a5c495:-8000:0000000000000878
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:Partition$Impl  ID: -84-20-10-5--1dcfbbef:16529a5c495:-8000:0000000000000976  MID: -84-20-10-5--1dcfbbef:16529a5c495:-8000:00000000000005DF  OPCKG: -84-20-10-5--1dcfbbef:16529a5c495:-8000:0000000000000878
+M:Fig org.argouml.uml.diagram.activity.ui.FigPartition.createBigPortFig()
+M:String org.argouml.uml.diagram.activity.ui.FigPartition.placeString()
+M:String org.argouml.uml.diagram.activity.ui.FigPartition.placeString()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.initFigs()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.setFilled(boolean)
+P:false

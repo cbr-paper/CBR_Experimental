@@ -1,0 +1,57 @@
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=177,y=297,width=0,height=0]
+P:org.tigris.gef.presentation.Handle@62eb57f0
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=173,y=293,width=8,height=8]
+P:org.tigris.gef.presentation.Handle@774f12cd
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=173,y=293,width=8,height=8]
+P:org.tigris.gef.presentation.Handle@47fda0af
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigPartition@491c24bd
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.paint(Graphics)
+P:sun.java2d.SunGraphics2D[font=java.awt.Font[family=Lucida Grande,name=Lucida Grande,style=plain,size=13],color=java.awt.Color[r=0,g=0,b=0]]
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=177,y=297,width=0,height=0]
+P:org.tigris.gef.presentation.Handle@7d5fbd9b
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=177,y=297,width=0,height=0]
+P:org.tigris.gef.presentation.Handle@55d16287
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=177,y=297,width=0,height=0]
+P:org.tigris.gef.presentation.Handle@22f0c8d5
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=177,y=297,width=0,height=0]
+P:org.tigris.gef.presentation.Handle@197e8679
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=173,y=293,width=8,height=8]
+P:org.tigris.gef.presentation.Handle@19cd53a8
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=173,y=293,width=8,height=8]
+P:org.tigris.gef.presentation.Handle@7d475c3b
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.paint(Graphics)
+P:sun.java2d.SunGraphics2D[font=java.awt.Font[family=Lucida Grande,name=Lucida Grande,style=plain,size=13],color=java.awt.Color[r=0,g=0,b=0]]
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=177,y=297,width=0,height=0]
+P:org.tigris.gef.presentation.Handle@c9a4070
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=377,y=297,width=0,height=0]
+P:org.tigris.gef.presentation.Handle@4f1584f9
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:List org.argouml.uml.diagram.activity.ui.FigPartition.getDragDependencies()
+M:List org.argouml.uml.diagram.activity.ui.FigPartition.getPartitions(Layer)
+P:org.tigris.gef.base.LayerPerspectiveMutable@ad75a50[untitledModel]

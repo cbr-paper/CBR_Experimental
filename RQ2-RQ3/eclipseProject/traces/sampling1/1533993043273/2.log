@@ -1,0 +1,47 @@
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:Pseudostate$Impl  ID: 127-0-0-1--5c147e1:165291c3545:-8000:0000000000000976  MID: 127-0-0-1--5c147e1:165291c3545:-8000:0000000000000511  OPCKG: 127-0-0-1--5c147e1:165291c3545:-8000:0000000000000877
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@37e9cce4
+P:org.argouml.uml.diagram.activity.ui.FigPool@3a271388
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@37e9cce4
+M:void org.argouml.uml.diagram.activity.ui.FigPool.addEnclosedFig(Fig)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@37e9cce4
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingAboveButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingLeftButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingButtonEnabled(boolean)
+P:true
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingRightButtonEnabled(boolean)
+P:true
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingBelowButtonEnabled(boolean)
+P:true
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@37e9cce4
+P:org.argouml.uml.diagram.activity.ui.FigPool@3a271388
+P:org.argouml.uml.diagram.activity.ui.FigPool@3a271388
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@37e9cce4
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15

@@ -1,0 +1,12 @@
+S:F;T;T;T;T;T;F;T;T;F;U;T;U;T;F;T;F;F;U;T;T;U;F;T;T;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;U;T;F;U;U;T;U;U;F;U;F;F;T;F;F;U;U;F;F;F;F;U;F;T;T;T;F;F;F;T;F;F;U;U;T;U;F;U;U;U;T;F;F;T;T;F;T;F;U;U;F;F;F;U;U;U;T;U;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;F;F;F;T;T;U;T;T;F;U;U;T;T
+A:clickOnButtonFork
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+S:F;T;T;T;T;T;F;T;T;F;U;T;U;T;F;T;F;F;U;T;T;U;F;T;T;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;U;T;F;U;U;T;U;U;F;U;F;F;T;F;F;U;U;F;F;F;F;U;F;T;T;T;F;F;F;T;F;F;U;U;T;U;F;U;U;U;T;F;F;T;T;F;T;F;U;U;F;F;F;U;U;U;T;U;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;F;F;F;T;T;U;T;T;F;U;U;T;T

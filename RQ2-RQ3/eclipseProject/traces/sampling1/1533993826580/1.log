@@ -1,0 +1,49 @@
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingAboveButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingLeftButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingButtonEnabled(boolean)
+P:true
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingRightButtonEnabled(boolean)
+P:true
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingBelowButtonEnabled(boolean)
+P:true
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@31351e91
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@5d5a3b08
+P:org.tigris.gef.base.LayerPerspectiveMutable@765e053c[untitledModel]
+P:CallState$Impl  ID: 127-0-0-1--7af40aa5:1652928289b:-8000:0000000000000976  MID: 127-0-0-1--7af40aa5:1652928289b:-8000:00000000000005EA  OPCKG: 127-0-0-1--7af40aa5:1652928289b:-8000:0000000000000877
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:CallState$Impl  ID: 127-0-0-1--7af40aa5:1652928289b:-8000:0000000000000976  MID: 127-0-0-1--7af40aa5:1652928289b:-8000:00000000000005EA  OPCKG: 127-0-0-1--7af40aa5:1652928289b:-8000:0000000000000877
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:CallState$Impl  ID: 127-0-0-1--7af40aa5:1652928289b:-8000:0000000000000976  MID: 127-0-0-1--7af40aa5:1652928289b:-8000:00000000000005EA  OPCKG: 127-0-0-1--7af40aa5:1652928289b:-8000:0000000000000877
+M:Fig org.argouml.uml.diagram.activity.ui.FigActionState.createBigPortFig()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.initializeActionState()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:10
+P:10
+P:100
+P:30

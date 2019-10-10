@@ -1,0 +1,897 @@
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setEnclosingFig(Fig)
+M:String org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getLabelName()
+M:ActivityDiagramGraphModel org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createGraphModel()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.setup(Object, Object)
+P:Model$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000972  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000060D  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+P:ActivityGraph$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000973  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005DC  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:ActivityDiagramGraphModel org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createGraphModel()
+M:PropPanel org.argouml.uml.diagram.activity.ui.ActivityDiagramPropPanelFactory.createPropPanel(Object)
+P:Diagram: untitledModel activity 1
+M:Object org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getOwner()
+M:Object org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getOwner()
+M:Object org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getOwner()
+M:Object org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getOwner()
+M:Object org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getOwner()
+M:Object org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getOwner()
+M:Object org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getOwner()
+M:Object org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getOwner()
+M:Object[] org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getUmlActions()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionTransition()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionStartPseudoState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionFinalPseudoState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionJunctionPseudoState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionForkPseudoState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionJoinPseudoState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionSwimlane()
+M:Object org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getStateMachine()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionCallState()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionObjectFlowState()
+M:Object[] org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getTriggerActions()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionCallEvent()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionChangeEvent()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionSignalEvent()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionTimeEvent()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionGuard()
+M:Object[] org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getEffectActions()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionCallAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionCreateAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionDestroyAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionReturnAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionSendAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionTerminateAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionUninterpretedAction()
+M:Action org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.getActionActionSequence()
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@5568b28d
+P:org.tigris.gef.base.LayerPerspectiveMutable@1cea2e62[untitledModel]
+P:Pseudostate$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000975  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000511  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:Pseudostate$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000975  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000511  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:Pseudostate$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000975  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000511  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@3613529e
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingAboveButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingLeftButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingButtonEnabled(boolean)
+P:true
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingRightButtonEnabled(boolean)
+P:true
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingBelowButtonEnabled(boolean)
+P:true
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@3613529e
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@5568b28d
+P:org.tigris.gef.base.LayerPerspectiveMutable@1cea2e62[untitledModel]
+P:CallState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000976  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EA  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:CallState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000976  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EA  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:CallState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000976  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EA  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:Fig org.argouml.uml.diagram.activity.ui.FigActionState.createBigPortFig()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.initializeActionState()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:10
+P:10
+P:100
+P:30
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@640d9bd9
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=container; oldValue=null; newValue=CompositeState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000974  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000050A  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=CallState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000976  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EA  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AContainerSubvertex$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000092F  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000537  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:32
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:32
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=container; oldValue=null; newValue=CompositeState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000974  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000050A  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=CallState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000976  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EA  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AContainerSubvertex$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000092F  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000537  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:32
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@640d9bd9
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingAboveButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingLeftButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingButtonEnabled(boolean)
+P:true
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingRightButtonEnabled(boolean)
+P:true
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingBelowButtonEnabled(boolean)
+P:true
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@3613529e
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:13
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:13
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000977  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000507  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=CallState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000976  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EA  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000935  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000549  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000977  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000507  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=CallState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000976  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EA  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000935  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000549  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@5568b28d
+P:org.tigris.gef.base.LayerPerspectiveMutable@1cea2e62[untitledModel]
+P:Pseudostate$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000978  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000511  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:Pseudostate$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000978  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000511  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:Pseudostate$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000978  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000511  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigForkState@25fb102b
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigForkState@25fb102b
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigForkState@25fb102b
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@640d9bd9
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:13
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:13
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=outgoing; oldValue=null; newValue=Transition$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000979  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000507  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=CallState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000976  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EA  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AOutgoingSource$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000934  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000546  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=outgoing; oldValue=null; newValue=Transition$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000979  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000507  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=CallState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000976  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EA  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AOutgoingSource$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000934  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000546  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@5568b28d
+P:org.tigris.gef.base.LayerPerspectiveMutable@1cea2e62[untitledModel]
+P:ActionState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097A  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005E9  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:ActionState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097A  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005E9  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:ActionState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097A  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005E9  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:Fig org.argouml.uml.diagram.activity.ui.FigActionState.createBigPortFig()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.initializeActionState()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:10
+P:10
+P:117
+P:30
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@69a1aac7
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=container; oldValue=null; newValue=CompositeState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000974  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000050A  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=ActionState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097A  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005E9  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AContainerSubvertex$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000092F  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000537  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:336
+P:32
+P:117
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:336
+P:32
+P:117
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=container; oldValue=null; newValue=CompositeState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000974  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000050A  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=ActionState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097A  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005E9  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AContainerSubvertex$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000092F  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000537  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:336
+P:32
+P:117
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@69a1aac7
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@5568b28d
+P:org.tigris.gef.base.LayerPerspectiveMutable@1cea2e62[untitledModel]
+P:ObjectFlowState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097B  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EE  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:ObjectFlowState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097B  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EE  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:ObjectFlowState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097B  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EE  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:int org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationProviderType()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.initFigs(Rectangle)
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.renderingChanged()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.initNotationProviders(Object)
+P:ObjectFlowState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097B  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EE  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:int org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationProviderType()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setStandardBounds(int, int, int, int)
+P:10
+P:10
+P:138
+P:50
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.updateStateText()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setStandardBounds(int, int, int, int)
+P:10
+P:10
+P:138
+P:50
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setEnclosingFig(Fig)
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigObjectFlowState@4821c33d
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:Selection org.argouml.uml.diagram.activity.ui.FigObjectFlowState.makeSelection()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setStandardBounds(int, int, int, int)
+P:336
+P:112
+P:138
+P:66
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@1bedb596
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@1bedb596
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@1bedb596
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=container; oldValue=null; newValue=CompositeState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000974  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000050A  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=ObjectFlowState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097B  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EE  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AContainerSubvertex$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000092F  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000537  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.updateListeners(Object, Object)
+P:ObjectFlowState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097B  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EE  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+P:ObjectFlowState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097B  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EE  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.renderingChanged()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.initNotationProviders(Object)
+P:ObjectFlowState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097B  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EE  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:int org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setStandardBounds(int, int, int, int)
+P:336
+P:112
+P:138
+P:66
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.updateStateText()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.updateListeners(Object, Object)
+P:ObjectFlowState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097B  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EE  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+P:ObjectFlowState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097B  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EE  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+P:
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:boolean org.argouml.uml.diagram.activity.ui.FigObjectFlowState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getLineColor()
+M:boolean org.argouml.uml.diagram.activity.ui.FigObjectFlowState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getLineColor()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setEnclosingFig(Fig)
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigObjectFlowState@4821c33d
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.textEditStarted(FigText)
+P:org.argouml.uml.diagram.ui.FigNameWithAbstractAndBold@7c251b41
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigForkState@25fb102b
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:13
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:13
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097C  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000507  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=ActionState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097A  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005E9  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000935  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000549  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097C  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000507  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=ActionState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097A  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005E9  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000935  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000549  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigForkState@25fb102b
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:13
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+P:
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+P:
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@5568b28d
+P:org.tigris.gef.base.LayerPerspectiveMutable@1cea2e62[untitledModel]
+P:Pseudostate$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097E  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000511  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:Pseudostate$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097E  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000511  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:Pseudostate$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097E  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000511  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@74da9c9f
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@74da9c9f
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@5568b28d
+P:org.tigris.gef.base.LayerPerspectiveMutable@1cea2e62[untitledModel]
+P:FinalState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097F  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000519  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:FinalState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097F  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000519  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:FinalState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097F  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000519  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigFinalState@40efb64f
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingRightButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingBelowButtonEnabled(boolean)
+P:false
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@69a1aac7
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:13
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:13
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=outgoing; oldValue=null; newValue=Transition$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000980  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000507  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=ActionState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097A  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005E9  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AOutgoingSource$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000934  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000546  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=outgoing; oldValue=null; newValue=Transition$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000980  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000507  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=ActionState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000097A  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005E9  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AOutgoingSource$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000934  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000546  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@74da9c9f
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:13
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:13
+M:Selection org.argouml.uml.diagram.activity.ui.FigObjectFlowState.makeSelection()
+M:boolean org.argouml.uml.diagram.activity.ui.FigObjectFlowState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getLineColor()
+M:boolean org.argouml.uml.diagram.activity.ui.FigObjectFlowState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getLineColor()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setEnclosingFig(Fig)
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigObjectFlowState@4821c33d
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:13
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+P:
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@32fa724c
+P:
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@166d31fa
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@5b5b2501
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@640d9bd9
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@5568b28d
+P:org.tigris.gef.base.LayerPerspectiveMutable@1cea2e62[untitledModel]
+P:Comment$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000983  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000038E  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:Comment$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000983  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000038E  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=comment; oldValue=null; newValue=Comment$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000983  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000038E  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=CallState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000976  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EA  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=ACommentAnnotatedElement$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000008C7  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000003F7  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:Comment$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000983  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000038E  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:32
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=comment; oldValue=null; newValue=Comment$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000983  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:000000000000038E  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877; propagationId=null; source=CallState$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000976  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000005EA  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=ACommentAnnotatedElement$Impl  ID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000008C7  MID: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:00000000000003F7  OPCKG: 10--1-6--94--5e1974e9:164fef0d7c4:-8000:0000000000000877]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:32
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.static_structure.ui.FigComment@66b5cc20
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.static_structure.ui.FigComment@66b5cc20

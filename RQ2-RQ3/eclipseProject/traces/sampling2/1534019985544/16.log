@@ -1,0 +1,41 @@
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=partition; oldValue=null; newValue=Partition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097B  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005DF  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B; propagationId=null; source=CallState$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000983  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005EA  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AContentsPartition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000096B  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005FB  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:368
+P:240
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=partition; oldValue=null; newValue=Partition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097B  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005DF  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B; propagationId=null; source=CallState$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000983  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005EA  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AContentsPartition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000096B  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005FB  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:368
+P:240
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=partition; oldValue=null; newValue=Partition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097B  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005DF  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B; propagationId=null; source=CallState$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000983  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005EA  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AContentsPartition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000096B  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005FB  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:368
+P:240
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()

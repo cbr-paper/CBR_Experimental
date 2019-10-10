@@ -1,0 +1,12 @@
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:11
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:11
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:11
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: -84-20-10-3-4fff7b99:165296979f7:-8000:000000000000098B  MID: -84-20-10-3-4fff7b99:165296979f7:-8000:0000000000000507  OPCKG: -84-20-10-3-4fff7b99:165296979f7:-8000:000000000000087B; propagationId=null; source=ActionState$Impl  ID: -84-20-10-3-4fff7b99:165296979f7:-8000:000000000000097A  MID: -84-20-10-3-4fff7b99:165296979f7:-8000:00000000000005E9  OPCKG: -84-20-10-3-4fff7b99:165296979f7:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: -84-20-10-3-4fff7b99:165296979f7:-8000:0000000000000939  MID: -84-20-10-3-4fff7b99:165296979f7:-8000:0000000000000549  OPCKG: -84-20-10-3-4fff7b99:165296979f7:-8000:000000000000087B]
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: -84-20-10-3-4fff7b99:165296979f7:-8000:000000000000098B  MID: -84-20-10-3-4fff7b99:165296979f7:-8000:0000000000000507  OPCKG: -84-20-10-3-4fff7b99:165296979f7:-8000:000000000000087B; propagationId=null; source=ActionState$Impl  ID: -84-20-10-3-4fff7b99:165296979f7:-8000:000000000000097A  MID: -84-20-10-3-4fff7b99:165296979f7:-8000:00000000000005E9  OPCKG: -84-20-10-3-4fff7b99:165296979f7:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: -84-20-10-3-4fff7b99:165296979f7:-8000:0000000000000939  MID: -84-20-10-3-4fff7b99:165296979f7:-8000:0000000000000549  OPCKG: -84-20-10-3-4fff7b99:165296979f7:-8000:000000000000087B]
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()

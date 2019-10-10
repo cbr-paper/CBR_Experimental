@@ -1,0 +1,88 @@
+S:F;T;T;T;T;T;F;T;T;F;U;T;U;T;F;T;F;F;F;T;T;T;F;T;U;F;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;U;F;U;T;F;T;T;T;F;T;T;T;T;T;T;F;F;T;T;F;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;U;F;F;T;F;F;F;T;F;F;F;T;T;F;T;T;T;U;U;U;T;F;F;F;F;T;F;F;T;F;F;T;F;F;T;T;F;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;U;F;F;T;U;U;T;T;F;U;U;T;T
+A:clickOnFigPartition
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:13
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@27f8c6c8
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@27f8c6c8
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@27f8c6c8
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@110114e3
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@110114e3
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@110114e3
+P:
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@6de9177b
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@6de9177b
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@6de9177b
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@233241e8
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@233241e8
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@233241e8
+P:
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@27f8c6c8
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@27f8c6c8
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@27f8c6c8
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@110114e3
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@110114e3
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@110114e3
+P:
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@6de9177b
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@6de9177b
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@6de9177b
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@233241e8
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@233241e8
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@233241e8
+P:
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: -84-20-10-3-243e3c27:16528b0895f:-8000:000000000000097D  MID: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000507  OPCKG: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000878; propagationId=null; source=ActionState$Impl  ID: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000978  MID: -84-20-10-3-243e3c27:16528b0895f:-8000:00000000000005E9  OPCKG: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000878]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000936  MID: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000549  OPCKG: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000878]
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: -84-20-10-3-243e3c27:16528b0895f:-8000:000000000000097D  MID: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000507  OPCKG: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000878; propagationId=null; source=ActionState$Impl  ID: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000978  MID: -84-20-10-3-243e3c27:16528b0895f:-8000:00000000000005E9  OPCKG: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000878]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000936  MID: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000549  OPCKG: -84-20-10-3-243e3c27:16528b0895f:-8000:0000000000000878]
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+S:F;T;T;T;T;T;F;T;T;F;U;T;U;T;F;T;F;F;F;T;T;T;F;T;U;F;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;U;F;U;T;F;F;T;T;F;T;T;T;T;T;T;F;F;T;T;F;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;U;F;F;T;F;F;F;T;F;F;F;T;T;F;T;T;T;U;U;U;T;F;F;F;F;T;F;F;T;F;F;T;F;F;T;T;F;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;U;F;F;T;U;U;T;T;F;U;U;T;T

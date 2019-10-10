@@ -1,0 +1,2 @@
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.static_structure.ui.FigComment@54e3c415

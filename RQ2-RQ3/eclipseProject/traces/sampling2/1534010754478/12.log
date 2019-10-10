@@ -1,0 +1,25 @@
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:32
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=comment; oldValue=null; newValue=Comment$Impl  ID: 127-0-0-1--62bbb3a6:1652a2a75cb:-8000:0000000000000983  MID: 127-0-0-1--62bbb3a6:1652a2a75cb:-8000:000000000000038E  OPCKG: 127-0-0-1--62bbb3a6:1652a2a75cb:-8000:0000000000000877; propagationId=null; source=CallState$Impl  ID: 127-0-0-1--62bbb3a6:1652a2a75cb:-8000:0000000000000976  MID: 127-0-0-1--62bbb3a6:1652a2a75cb:-8000:00000000000005EA  OPCKG: 127-0-0-1--62bbb3a6:1652a2a75cb:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=ACommentAnnotatedElement$Impl  ID: 127-0-0-1--62bbb3a6:1652a2a75cb:-8000:00000000000008C7  MID: 127-0-0-1--62bbb3a6:1652a2a75cb:-8000:00000000000003F7  OPCKG: 127-0-0-1--62bbb3a6:1652a2a75cb:-8000:0000000000000877]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:32
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.static_structure.ui.FigComment@5c784aaa
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.static_structure.ui.FigComment@5c784aaa

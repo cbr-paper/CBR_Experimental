@@ -1,0 +1,28 @@
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;F;T;T;T;F;T;T;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;F;U;F;F;T;F;F;F;T;T;F;F;F;T;F;T;T;T;F;F;F;T;F;F;F;F;T;F;F;T;F;U;T;F;F;T;T;T;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;F;F;F;T;T;U;T;T;F;U;F;T;T
+A:clickOnFigJunctionState
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@1fe8c2f9
+P:org.argouml.uml.diagram.activity.ui.FigPool@3fbb3b1b
+P:org.argouml.uml.diagram.activity.ui.FigPool@3fbb3b1b
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@1fe8c2f9
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:Pseudostate$Impl  ID: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000983  MID: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000511  OPCKG: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000879
+P:Partition$Impl  ID: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000977  MID: -84-20-10-5--422f168b:165329d79e3:-8000:00000000000005DF  OPCKG: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000879
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;F;T;T;T;F;T;T;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;F;U;F;F;T;F;F;F;T;T;F;F;F;T;F;T;T;T;F;F;F;T;F;F;F;F;T;F;F;T;F;U;T;F;F;T;T;T;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;F;F;F;T;T;U;T;T;F;U;F;T;T

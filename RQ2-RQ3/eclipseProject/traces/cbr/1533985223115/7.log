@@ -1,0 +1,24 @@
+S:F;T;T;T;T;T;F;T;T;F;U;T;U;T;F;T;F;F;U;T;T;U;F;T;T;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;U;T;F;U;U;T;U;U;U;U;F;F;T;F;F;U;U;T;F;F;F;U;F;T;T;T;F;F;F;T;F;F;U;U;T;U;F;U;U;U;T;F;F;T;T;F;F;T;U;U;F;F;F;U;U;U;T;U;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;F;F;F;T;T;U;T;T;F;U;F;T;T
+A:clickOnFigPartition
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=94,y=24,width=8,height=8]
+P:org.tigris.gef.presentation.Handle@452453f5
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=94,y=24,width=8,height=8]
+P:org.tigris.gef.presentation.Handle@3a85176f
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigPartition@56cd27f9
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.paint(Graphics)
+P:sun.java2d.SunGraphics2D[font=java.awt.Font[family=Lucida Grande,name=Lucida Grande,style=plain,size=13],color=java.awt.Color[r=0,g=0,b=0]]
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.paint(Graphics)
+P:sun.java2d.SunGraphics2D[font=java.awt.Font[family=Lucida Grande,name=Lucida Grande,style=plain,size=13],color=java.awt.Color[r=0,g=0,b=0]]
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=256,y=36,width=0,height=0]
+P:org.tigris.gef.presentation.Handle@5801bc22
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+S:F;T;T;T;T;T;F;T;T;F;U;T;U;T;F;T;F;F;U;T;T;U;F;T;T;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;U;T;F;U;U;T;U;U;U;U;F;F;T;F;F;U;U;T;F;F;F;U;F;T;T;T;F;F;F;T;F;F;U;U;T;U;F;U;U;U;T;F;F;T;T;F;F;T;U;U;F;F;F;U;U;U;T;U;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;F;F;F;T;T;U;T;T;F;U;F;T;T

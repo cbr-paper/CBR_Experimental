@@ -1,0 +1,23 @@
+S:F;T;T;T;T;T;F;T;T;F;U;T;U;T;F;T;F;F;F;T;T;T;F;T;U;F;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;U;F;U;T;F;T;T;T;F;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;U;F;F;T;F;F;F;T;F;F;F;F;T;F;T;T;T;U;U;U;T;F;F;F;F;T;F;F;T;F;F;T;F;F;T;T;F;F;F;F;F;F;T;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;T;F;F;F;F;F;U;F;F;T;U;U;T;T;F;U;U;T;T
+A:clickOnFigPartition
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setEnclosingFig(Fig)
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigObjectFlowState@30b0123c
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.textEditStarted(FigText)
+P:org.argouml.uml.diagram.ui.FigNameWithAbstractAndBold@67f02eb1
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+S:F;T;T;T;T;T;F;T;T;F;U;T;U;T;F;T;F;F;F;T;T;T;F;T;U;F;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;U;F;U;T;F;T;T;T;F;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;U;F;F;T;F;F;F;T;F;F;F;F;T;F;T;T;T;U;U;U;T;F;F;F;F;T;F;F;T;F;F;T;F;F;T;T;F;F;F;F;F;F;T;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;T;F;F;F;F;F;U;F;F;T;U;U;T;T;F;U;U;T;T

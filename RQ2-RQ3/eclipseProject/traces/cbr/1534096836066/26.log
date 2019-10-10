@@ -1,0 +1,63 @@
+S:F;T;T;T;T;T;F;T;T;F;U;T;U;T;F;T;F;F;F;T;T;T;F;T;U;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;U;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;T;F;F;T;F;F;F;T;T;F;F;F;T;F;T;T;T;U;U;U;T;F;F;F;F;T;F;F;T;F;U;T;F;F;T;T;F;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;T;U;F;F;T;T;F;T;T;F;U;U;T;T
+A:clickOnFigPartition
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@35ca2562
+P:org.argouml.uml.diagram.activity.ui.FigPool@26a41b34
+P:org.argouml.uml.diagram.activity.ui.FigPool@26a41b34
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@35ca2562
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:CallState$Impl  ID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:000000000000097E  MID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:00000000000005EA  OPCKG: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000879
+P:Partition$Impl  ID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000978  MID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:00000000000005DF  OPCKG: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000879
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=partition; oldValue=null; newValue=Partition$Impl  ID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000977  MID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:00000000000005DF  OPCKG: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000879; propagationId=null; source=CallState$Impl  ID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:000000000000097E  MID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:00000000000005EA  OPCKG: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000879]: org.netbeans.api.mdr.events.AssociationEvent[source=AContentsPartition$Impl  ID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000969  MID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:00000000000005FB  OPCKG: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000879]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:48
+P:208
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=partition; oldValue=null; newValue=Partition$Impl  ID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000977  MID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:00000000000005DF  OPCKG: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000879; propagationId=null; source=CallState$Impl  ID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:000000000000097E  MID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:00000000000005EA  OPCKG: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000879]: org.netbeans.api.mdr.events.AssociationEvent[source=AContentsPartition$Impl  ID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000969  MID: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:00000000000005FB  OPCKG: 127-0-0-1-3aa6726e:1652f4bf51e:-8000:0000000000000879]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:48
+P:208
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+S:F;T;T;T;T;T;F;T;T;F;U;T;U;T;F;T;F;F;F;T;T;T;F;T;U;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;U;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;T;F;F;T;F;F;F;T;T;F;F;F;T;F;T;T;T;U;U;U;T;F;F;F;F;T;F;F;T;F;U;T;F;F;T;T;F;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;T;U;F;F;T;T;F;T;T;F;U;U;T;T

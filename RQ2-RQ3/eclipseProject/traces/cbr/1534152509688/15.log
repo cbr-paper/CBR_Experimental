@@ -1,0 +1,22 @@
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;U;T;T;U;F;T;T;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;U;T;F;U;U;U;U;U;U;T;F;F;T;F;F;U;U;T;F;F;F;U;F;T;T;T;F;F;F;T;F;F;U;U;T;U;F;U;U;U;T;F;F;T;T;T;F;F;U;U;F;F;F;U;U;U;T;U;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;F;F;F;T;T;F;T;T;F;T;F;T;T
+A:clickOnFigPartition
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@78a5830
+P:org.tigris.gef.base.LayerPerspectiveMutable@6f50ed62[untitledModel]
+P:Pseudostate$Impl  ID: -84-20-10-5--422f168b:165329d79e3:-8000:000000000000097A  MID: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000511  OPCKG: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000879
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:Pseudostate$Impl  ID: -84-20-10-5--422f168b:165329d79e3:-8000:000000000000097A  MID: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000511  OPCKG: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000879
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:Pseudostate$Impl  ID: -84-20-10-5--422f168b:165329d79e3:-8000:000000000000097A  MID: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000511  OPCKG: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000879
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@2d178393
+P:org.argouml.uml.diagram.activity.ui.FigPool@3fbb3b1b
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@2d178393
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:Pseudostate$Impl  ID: -84-20-10-5--422f168b:165329d79e3:-8000:000000000000097A  MID: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000511  OPCKG: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000879
+P:Partition$Impl  ID: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000978  MID: -84-20-10-5--422f168b:165329d79e3:-8000:00000000000005DF  OPCKG: -84-20-10-5--422f168b:165329d79e3:-8000:0000000000000879
+M:void org.argouml.uml.diagram.activity.ui.FigPool.addEnclosedFig(Fig)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@2d178393
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;U;T;T;U;F;T;T;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;U;T;F;U;U;U;U;U;U;T;F;F;T;F;F;U;U;T;F;F;F;U;F;T;T;T;F;F;F;T;F;F;U;U;T;U;F;U;U;U;T;F;F;T;T;T;F;F;U;U;F;F;F;U;U;U;T;U;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;F;F;F;T;T;F;T;T;F;U;F;T;T

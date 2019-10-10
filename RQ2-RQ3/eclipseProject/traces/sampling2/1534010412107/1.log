@@ -1,0 +1,55 @@
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@188b1592
+P:org.tigris.gef.base.LayerPerspectiveMutable@7d9dd585[untitledModel]
+P:CallState$Impl  ID: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000976  MID: -84-20-10-3-6028924b:1652a253eda:-8000:00000000000005EA  OPCKG: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000877
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:CallState$Impl  ID: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000976  MID: -84-20-10-3-6028924b:1652a253eda:-8000:00000000000005EA  OPCKG: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000877
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:CallState$Impl  ID: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000976  MID: -84-20-10-3-6028924b:1652a253eda:-8000:00000000000005EA  OPCKG: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000877
+M:Fig org.argouml.uml.diagram.activity.ui.FigActionState.createBigPortFig()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.initializeActionState()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:10
+P:10
+P:100
+P:30
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@5af18367
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=container; oldValue=null; newValue=CompositeState$Impl  ID: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000974  MID: -84-20-10-3-6028924b:1652a253eda:-8000:000000000000050A  OPCKG: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000877; propagationId=null; source=CallState$Impl  ID: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000976  MID: -84-20-10-3-6028924b:1652a253eda:-8000:00000000000005EA  OPCKG: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AContainerSubvertex$Impl  ID: -84-20-10-3-6028924b:1652a253eda:-8000:000000000000092F  MID: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000537  OPCKG: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000877]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:32
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:32
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=container; oldValue=null; newValue=CompositeState$Impl  ID: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000974  MID: -84-20-10-3-6028924b:1652a253eda:-8000:000000000000050A  OPCKG: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000877; propagationId=null; source=CallState$Impl  ID: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000976  MID: -84-20-10-3-6028924b:1652a253eda:-8000:00000000000005EA  OPCKG: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000877]: org.netbeans.api.mdr.events.AssociationEvent[source=AContainerSubvertex$Impl  ID: -84-20-10-3-6028924b:1652a253eda:-8000:000000000000092F  MID: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000537  OPCKG: -84-20-10-3-6028924b:1652a253eda:-8000:0000000000000877]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:32
+P:100
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()

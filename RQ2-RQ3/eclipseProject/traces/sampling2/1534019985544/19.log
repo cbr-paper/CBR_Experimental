@@ -1,0 +1,53 @@
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@26bbdfcd
+P:org.tigris.gef.base.LayerPerspectiveMutable@3dc4f0d4[untitledModel]
+P:Pseudostate$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000985  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000511  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:Pseudostate$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000985  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000511  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:Pseudostate$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000985  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000511  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@1626e59b
+P:org.argouml.uml.diagram.activity.ui.FigPool@2700d019
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@1626e59b
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:Pseudostate$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000985  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000511  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+P:Partition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000979  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005DF  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:Pseudostate$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000985  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000511  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+P:Partition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097A  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005DF  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+M:void org.argouml.uml.diagram.activity.ui.FigPool.addEnclosedFig(Fig)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@1626e59b
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@1626e59b
+P:org.argouml.uml.diagram.activity.ui.FigPool@2700d019
+P:org.argouml.uml.diagram.activity.ui.FigPool@2700d019
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@1626e59b
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:Pseudostate$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000985  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000511  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+P:Partition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000979  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005DF  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:Pseudostate$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000985  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000511  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+P:Partition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097A  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005DF  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()

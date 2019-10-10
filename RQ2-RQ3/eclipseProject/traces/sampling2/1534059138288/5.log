@@ -1,0 +1,50 @@
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@737afe48
+P:org.argouml.uml.diagram.activity.ui.FigPool@11ca746e
+P:org.argouml.uml.diagram.activity.ui.FigPool@11ca746e
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@737afe48
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:Pseudostate$Impl  ID: 127-0-0-1-321e669c:1652d0cbbfb:-8000:0000000000000975  MID: 127-0-0-1-321e669c:1652d0cbbfb:-8000:0000000000000511  OPCKG: 127-0-0-1-321e669c:1652d0cbbfb:-8000:0000000000000875
+P:Partition$Impl  ID: 127-0-0-1-321e669c:1652d0cbbfb:-8000:0000000000000974  MID: 127-0-0-1-321e669c:1652d0cbbfb:-8000:00000000000005DF  OPCKG: 127-0-0-1-321e669c:1652d0cbbfb:-8000:0000000000000875
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@253825cd
+P:org.tigris.gef.base.LayerPerspectiveMutable@3cd82baa[untitledModel]
+P:ActionState$Impl  ID: 127-0-0-1-321e669c:1652d0cbbfb:-8000:0000000000000976  MID: 127-0-0-1-321e669c:1652d0cbbfb:-8000:00000000000005E9  OPCKG: 127-0-0-1-321e669c:1652d0cbbfb:-8000:0000000000000875
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:ActionState$Impl  ID: 127-0-0-1-321e669c:1652d0cbbfb:-8000:0000000000000976  MID: 127-0-0-1-321e669c:1652d0cbbfb:-8000:00000000000005E9  OPCKG: 127-0-0-1-321e669c:1652d0cbbfb:-8000:0000000000000875
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:ActionState$Impl  ID: 127-0-0-1-321e669c:1652d0cbbfb:-8000:0000000000000976  MID: 127-0-0-1-321e669c:1652d0cbbfb:-8000:00000000000005E9  OPCKG: 127-0-0-1-321e669c:1652d0cbbfb:-8000:0000000000000875
+M:Fig org.argouml.uml.diagram.activity.ui.FigActionState.createBigPortFig()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()

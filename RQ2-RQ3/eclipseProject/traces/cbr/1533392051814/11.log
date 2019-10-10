@@ -1,0 +1,11 @@
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;U;T;T;U;F;T;T;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;U;T;F;U;U;U;U;U;F;U;F;F;T;F;F;U;U;T;F;F;F;U;F;T;T;T;F;F;F;T;F;F;U;U;T;U;F;U;U;U;T;F;F;T;T;F;F;F;U;U;F;F;T;U;U;U;T;U;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;T;F;F;F;F;F;F;T;U;U;T;T;F;U;U;T;T
+A:clickOnButtonInitial
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=46,y=64,width=0,height=0]
+P:org.tigris.gef.presentation.Handle@4a97b5ce
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.hitHandle(Rectangle, Handle)
+P:java.awt.Rectangle[x=46,y=64,width=0,height=0]
+P:org.tigris.gef.presentation.Handle@d14fbef
+M:void org.argouml.uml.diagram.activity.ui.FigPartition.SelectionPartition.updateHandleBox()
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;U;T;T;U;F;T;T;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;U;T;F;U;U;U;U;U;F;U;F;F;T;F;F;U;U;T;F;F;F;U;F;T;T;T;F;F;F;T;F;F;U;U;T;U;F;U;U;U;T;F;F;T;T;F;F;F;U;U;F;F;T;U;U;U;T;U;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;T;F;F;F;F;F;F;T;U;U;T;T;F;U;U;T;T

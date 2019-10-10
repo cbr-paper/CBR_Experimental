@@ -1,0 +1,19 @@
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;F;T;T;T;F;T;U;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;U;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;U;F;F;T;F;F;F;T;T;F;F;F;T;F;T;T;T;U;U;U;T;F;F;F;F;T;F;F;T;F;U;T;F;F;T;T;F;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;U;F;F;T;T;U;T;T;F;U;F;T;T
+A:clickOnFigPartition
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@7dd372f6
+P:org.tigris.gef.base.LayerPerspectiveMutable@71816aac[untitledModel]
+P:CallState$Impl  ID: -64--88-1-3--7c13bf33:16505e122f9:-8000:000000000000097E  MID: -64--88-1-3--7c13bf33:16505e122f9:-8000:00000000000005EA  OPCKG: -64--88-1-3--7c13bf33:16505e122f9:-8000:0000000000000879
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:CallState$Impl  ID: -64--88-1-3--7c13bf33:16505e122f9:-8000:000000000000097E  MID: -64--88-1-3--7c13bf33:16505e122f9:-8000:00000000000005EA  OPCKG: -64--88-1-3--7c13bf33:16505e122f9:-8000:0000000000000879
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:CallState$Impl  ID: -64--88-1-3--7c13bf33:16505e122f9:-8000:000000000000097E  MID: -64--88-1-3--7c13bf33:16505e122f9:-8000:00000000000005EA  OPCKG: -64--88-1-3--7c13bf33:16505e122f9:-8000:0000000000000879
+M:Fig org.argouml.uml.diagram.activity.ui.FigActionState.createBigPortFig()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.initializeActionState()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:10
+P:10
+P:100
+P:30
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;F;T;T;T;F;T;U;U;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;U;F;U;T;F;U;U;U;U;T;T;T;T;T;T;F;F;T;T;U;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;U;F;F;T;F;F;F;T;T;F;F;F;T;F;T;T;T;U;U;U;T;F;F;F;F;T;F;F;T;F;U;T;F;F;T;T;F;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;U;F;F;T;T;U;T;T;F;U;F;T;T

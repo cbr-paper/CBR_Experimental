@@ -1,0 +1,62 @@
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@6ca9ed76
+P:org.argouml.uml.diagram.activity.ui.FigPool@2700d019
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@6ca9ed76
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=container; oldValue=null; newValue=CompositeState$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000978  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000050A  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B; propagationId=null; source=ActionState$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097D  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005E9  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AContainerSubvertex$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000933  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000537  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:ActionState$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097D  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005E9  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+P:Partition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000979  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005DF  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:ActionState$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097D  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005E9  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+P:Partition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097B  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005DF  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B
+M:void org.argouml.uml.diagram.activity.ui.FigPool.addEnclosedFig(Fig)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@6ca9ed76
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:208
+P:64
+P:117
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:208
+P:64
+P:117
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=container; oldValue=null; newValue=CompositeState$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000978  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000050A  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B; propagationId=null; source=ActionState$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097D  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005E9  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AContainerSubvertex$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000933  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:0000000000000537  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:208
+P:64
+P:117
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=partition; oldValue=null; newValue=Partition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097A  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005DF  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B; propagationId=null; source=ActionState$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097D  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005E9  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AContentsPartition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000096B  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005FB  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:208
+P:64
+P:117
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=partition; oldValue=null; newValue=Partition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097A  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005DF  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B; propagationId=null; source=ActionState$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000097D  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005E9  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AContentsPartition$Impl  ID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000096B  MID: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:00000000000005FB  OPCKG: 127-0-0-1-2b5d4c26:1652ab7533e:-8000:000000000000087B]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:208
+P:64
+P:117
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()

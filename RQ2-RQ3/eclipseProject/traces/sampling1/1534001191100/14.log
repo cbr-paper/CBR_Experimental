@@ -1,0 +1,88 @@
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:13
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:13
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:13
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:13
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=outgoing; oldValue=null; newValue=Transition$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:000000000000097F  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000507  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878; propagationId=null; source=ActionState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000978  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005E9  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]: org.netbeans.api.mdr.events.AssociationEvent[source=AOutgoingSource$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000935  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000546  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=outgoing; oldValue=null; newValue=Transition$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:000000000000097F  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000507  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878; propagationId=null; source=ActionState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000978  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005E9  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]: org.netbeans.api.mdr.events.AssociationEvent[source=AOutgoingSource$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000935  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000546  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@57aad086
+P:org.tigris.gef.base.LayerPerspectiveMutable@6f1d0e1b[untitledModel]
+P:ActionState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000980  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005E9  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:ActionState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000980  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005E9  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:ActionState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000980  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005E9  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878
+M:Fig org.argouml.uml.diagram.activity.ui.FigActionState.createBigPortFig()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.initializeActionState()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:10
+P:10
+P:117
+P:30
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000981  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000507  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878; propagationId=null; source=ActionState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000980  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005E9  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000936  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000549  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigFinalState@2996ae0b
+P:org.argouml.uml.diagram.activity.ui.FigPool@2c7b7607
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:11
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.FigPool.setStandardBounds(int, int, int, int)
+P:16
+P:16
+P:456
+P:368
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:List org.argouml.uml.diagram.activity.ui.FigPartition.access$200(FigPartition, Layer)
+P:org.argouml.uml.diagram.activity.ui.FigPartition@55b59d82
+P:org.tigris.gef.base.LayerPerspectiveMutable@6f1d0e1b[untitledModel]
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigPartition@55b59d82
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigObjectFlowState@3b634fc8
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@60bad6dc
+P:
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@26624423
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@26624423
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()

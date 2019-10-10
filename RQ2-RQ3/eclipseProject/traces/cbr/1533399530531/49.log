@@ -1,0 +1,40 @@
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;F;T;T;T;F;T;T;F;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;F;T;T;F;T;T;T;T;T;T;F;F;T;T;F;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;T;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;T;F;F;F;T;F;F;F;F;T;F;F;T;F;F;T;F;F;T;T;F;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;F;F;F;T;T;F;T;T;F;U;U;T;T
+A:clickOnFigPartition
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@552604
+P:org.tigris.gef.base.LayerPerspectiveMutable@6859b15a[untitledModel]
+P:Pseudostate$Impl  ID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000988  MID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000511  OPCKG: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000087B
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:Pseudostate$Impl  ID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000988  MID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000511  OPCKG: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000087B
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:Pseudostate$Impl  ID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000988  MID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000511  OPCKG: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000087B
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@5b64901
+P:org.argouml.uml.diagram.activity.ui.FigPool@1129eeee
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@5b64901
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:Pseudostate$Impl  ID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000988  MID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000511  OPCKG: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000087B
+P:Partition$Impl  ID: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000097A  MID: -64--88-1-3-8b79b20:16505bbeb40:-8000:00000000000005DF  OPCKG: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000087B
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:Pseudostate$Impl  ID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000988  MID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000511  OPCKG: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000087B
+P:Partition$Impl  ID: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000097B  MID: -64--88-1-3-8b79b20:16505bbeb40:-8000:00000000000005DF  OPCKG: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000087B
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.isStateInPartition(Object, Object)
+P:Pseudostate$Impl  ID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000988  MID: -64--88-1-3-8b79b20:16505bbeb40:-8000:0000000000000511  OPCKG: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000087B
+P:Partition$Impl  ID: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000097C  MID: -64--88-1-3-8b79b20:16505bbeb40:-8000:00000000000005DF  OPCKG: -64--88-1-3-8b79b20:16505bbeb40:-8000:000000000000087B
+M:void org.argouml.uml.diagram.activity.ui.FigPool.addEnclosedFig(Fig)
+P:org.argouml.uml.diagram.state.ui.FigInitialState@5b64901
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingAboveButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setIncomingLeftButtonEnabled(boolean)
+P:false
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingButtonEnabled(boolean)
+P:true
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingRightButtonEnabled(boolean)
+P:true
+M:void org.argouml.uml.diagram.activity.ui.SelectionActionState.setOutgoingBelowButtonEnabled(boolean)
+P:true
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;F;T;T;T;F;T;T;F;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;T;F;U;T;F;F;T;T;F;T;T;T;T;T;T;F;F;T;T;F;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;T;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;T;F;F;F;T;F;F;F;F;T;F;F;T;F;F;T;F;F;T;T;F;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;F;F;F;T;T;F;T;T;F;U;U;T;T

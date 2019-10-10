@@ -1,0 +1,50 @@
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:11
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:11
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:11
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:11
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:11
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:11
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=outgoing; oldValue=null; newValue=Transition$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000097D  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000507  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B; propagationId=null; source=ActionState$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000097A  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:00000000000005E9  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AOutgoingSource$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000938  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000546  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B]
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=outgoing; oldValue=null; newValue=Transition$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000097D  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000507  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B; propagationId=null; source=ActionState$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000097A  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:00000000000005E9  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AOutgoingSource$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000938  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000546  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B]
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000097D  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000507  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B; propagationId=null; source=CallState$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000097C  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:00000000000005EA  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000939  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000549  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B]
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000097D  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000507  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B; propagationId=null; source=CallState$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000097C  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:00000000000005EA  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000939  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000549  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B]
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@159bf36c
+P:org.tigris.gef.base.LayerPerspectiveMutable@76451b18[untitledModel]
+P:Pseudostate$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000097E  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000511  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:Pseudostate$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000097E  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000511  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:Pseudostate$Impl  ID: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000097E  MID: 127-0-0-1-28d8d66c:165293ed497:-8000:0000000000000511  OPCKG: 127-0-0-1-28d8d66c:165293ed497:-8000:000000000000087B
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@3d039ff3
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.state.ui.FigJunctionState@3d039ff3

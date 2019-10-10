@@ -1,0 +1,41 @@
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:11
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:11
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:11
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:15
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewNodeType(int)
+P:11
+M:Object org.argouml.uml.diagram.activity.ui.SelectionActionState.getNewEdgeType(int)
+P:11
+M:boolean org.argouml.uml.diagram.activity.ui.SelectionActionState.isReverseEdge(int)
+P:11
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: -84-20-10-3--27de40df:16529f4e497:-8000:000000000000097B  MID: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000507  OPCKG: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000874; propagationId=null; source=ActionState$Impl  ID: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000979  MID: -84-20-10-3--27de40df:16529f4e497:-8000:00000000000005E9  OPCKG: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000874]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000932  MID: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000549  OPCKG: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000874]
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=incoming; oldValue=null; newValue=Transition$Impl  ID: -84-20-10-3--27de40df:16529f4e497:-8000:000000000000097B  MID: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000507  OPCKG: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000874; propagationId=null; source=ActionState$Impl  ID: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000979  MID: -84-20-10-3--27de40df:16529f4e497:-8000:00000000000005E9  OPCKG: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000874]: org.netbeans.api.mdr.events.AssociationEvent[source=AIncomingTarget$Impl  ID: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000932  MID: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000549  OPCKG: -84-20-10-3--27de40df:16529f4e497:-8000:0000000000000874]
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:boolean org.argouml.uml.diagram.activity.ui.FigActionState.isFilled()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getFillColor()
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getLineWidth()
+M:Color org.argouml.uml.diagram.activity.ui.FigActionState.getLineColor()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigActionState@26737c16
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:String org.argouml.uml.diagram.activity.ui.SelectionActionState.getInstructions(int)
+P:11
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()

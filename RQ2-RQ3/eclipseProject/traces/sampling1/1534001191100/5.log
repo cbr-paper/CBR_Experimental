@@ -1,0 +1,39 @@
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=partition; oldValue=null; newValue=Partition$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000976  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005DF  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878; propagationId=null; source=ActionState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000978  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005E9  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]: org.netbeans.api.mdr.events.AssociationEvent[source=AContentsPartition$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000968  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005FB  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:128
+P:117
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AttributeChangeEvent[propertyName=partition; oldValue=null; newValue=Partition$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000976  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005DF  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878; propagationId=null; source=ActionState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000978  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005E9  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]: org.netbeans.api.mdr.events.AssociationEvent[source=AContentsPartition$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000968  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005FB  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]
+M:int org.argouml.uml.diagram.activity.ui.FigActionState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigActionState.setStandardBounds(int, int, int, int)
+P:128
+P:128
+P:117
+P:36
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigActionState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigPartition.getMinimumSize()
+M:Icon[] org.argouml.uml.diagram.activity.ui.SelectionActionState.getIcons()

@@ -1,0 +1,11 @@
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;F;T;T;T;F;T;U;F;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;U;F;U;T;F;F;T;T;F;T;T;T;T;T;T;F;F;T;T;F;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;T;T;F;T;F;F;F;T;T;F;T;F;T;F;T;T;T;U;U;U;T;F;F;F;F;T;F;F;T;F;F;T;F;F;T;T;F;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;U;F;F;T;U;F;T;T;F;U;U;T;T
+A:clickOnFigPartition
+M:FigNode org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+P:org.argouml.uml.diagram.activity.ActivityDiagramGraphModel@4a52e519
+P:org.tigris.gef.base.LayerPerspectiveMutable@7f9f51c8[untitledModel]
+P:FinalState$Impl  ID: -64--88-1-3-3e7e8c64:16505cb7f50:-8000:0000000000000986  MID: -64--88-1-3-3e7e8c64:16505cb7f50:-8000:0000000000000519  OPCKG: -64--88-1-3-3e7e8c64:16505cb7f50:-8000:000000000000087B
+M:boolean org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.doesAccept(Object)
+P:FinalState$Impl  ID: -64--88-1-3-3e7e8c64:16505cb7f50:-8000:0000000000000986  MID: -64--88-1-3-3e7e8c64:16505cb7f50:-8000:0000000000000519  OPCKG: -64--88-1-3-3e7e8c64:16505cb7f50:-8000:000000000000087B
+M:DiagramElement org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.createDiagramElement(Object, Rectangle)
+P:FinalState$Impl  ID: -64--88-1-3-3e7e8c64:16505cb7f50:-8000:0000000000000986  MID: -64--88-1-3-3e7e8c64:16505cb7f50:-8000:0000000000000519  OPCKG: -64--88-1-3-3e7e8c64:16505cb7f50:-8000:000000000000087B
+S:F;T;T;T;T;T;F;T;T;F;U;T;T;T;F;T;F;F;F;T;T;T;F;T;U;F;F;T;F;F;T;F;F;T;F;F;T;F;T;F;T;T;U;F;U;T;F;F;T;T;F;T;T;T;T;T;T;F;F;T;T;F;F;F;F;F;F;F;T;F;T;F;T;U;U;F;U;U;T;T;F;T;F;F;F;T;T;F;T;F;T;F;T;T;T;U;U;U;T;F;F;F;F;T;F;F;T;F;F;T;F;F;T;T;F;F;F;F;F;F;F;F;F;F;F;T;F;T;F;F;F;T;T;F;F;F;T;F;T;T;F;F;F;F;F;F;U;F;F;T;U;F;T;T;F;U;U;T;T

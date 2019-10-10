@@ -1,0 +1,63 @@
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.updateStateText()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setStandardBounds(int, int, int, int)
+P:10
+P:10
+P:138
+P:50
+M:boolean org.argouml.uml.diagram.activity.ui.FigPool.getUseTrapRect()
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@6acf6d0a
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setEnclosingFig(Fig)
+P:org.argouml.uml.diagram.activity.ui.FigPool@2c7b7607
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@6acf6d0a
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.encloserChanged(FigNode, FigNode, FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigObjectFlowState@6e63f25a
+P:org.argouml.uml.diagram.activity.ui.FigPool@2c7b7607
+M:void org.argouml.uml.diagram.activity.ui.UMLActivityDiagram.changePartition(FigNode)
+P:org.argouml.uml.diagram.activity.ui.FigObjectFlowState@6e63f25a
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml@6acf6d0a
+P:
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigPool.addEnclosedFig(Fig)
+P:org.argouml.uml.diagram.activity.ui.FigObjectFlowState@6e63f25a
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setStandardBounds(int, int, int, int)
+P:16
+P:168
+P:138
+P:66
+M:Selection org.argouml.uml.diagram.activity.ui.FigObjectFlowState.makeSelection()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.modelChanged(PropertyChangeEvent)
+P:org.argouml.model.AddAssociationEvent[propertyName=container; oldValue=null; newValue=CompositeState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000975  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:000000000000050A  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878; propagationId=null; source=ObjectFlowState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:000000000000097A  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005EE  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]: org.netbeans.api.mdr.events.AssociationEvent[source=AContainerSubvertex$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000930  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000537  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878]
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.updateListeners(Object, Object)
+P:ObjectFlowState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:000000000000097A  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005EE  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878
+P:ObjectFlowState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:000000000000097A  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005EE  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.renderingChanged()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.initNotationProviders(Object)
+P:ObjectFlowState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:000000000000097A  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005EE  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878
+M:int org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationProviderType()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.setStandardBounds(int, int, int, int)
+P:16
+P:168
+P:138
+P:66
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.updateStateText()
+M:Dimension org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getMinimumSize()
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.updateListeners(Object, Object)
+P:ObjectFlowState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:000000000000097A  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005EE  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878
+P:ObjectFlowState$Impl  ID: -84-20-10-3-2a0643ef:1652998872a:-8000:000000000000097A  MID: -84-20-10-3-2a0643ef:1652998872a:-8000:00000000000005EE  OPCKG: -84-20-10-3-2a0643ef:1652998872a:-8000:0000000000000878
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@4f50318d
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@4f50318d
+M:void org.argouml.uml.diagram.activity.ui.FigObjectFlowState.notationRenderingChanged(NotationProvider, String)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@4f50318d
+P:
+M:Object org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getOwner(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@34e751c4
+M:NotationSettings org.argouml.uml.diagram.activity.ui.FigObjectFlowState.getNotationSettings(NotationProvider)
+P:org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml@34e751c4
