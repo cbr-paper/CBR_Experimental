@@ -1,0 +1,8 @@
+<aspectj>
+	<aspects>
+		<aspect name="it.unimib.disco.aspects.ActionAspect" />
+	<!-- <aspect name="it.unimib.disco.aspects.NaiveMonitor" />-->
+		<aspect name="it.unimib.disco.aspects.ControlledBurstRecording" />
+		<!--	 <aspect name="it.unimib.disco.aspects.SamplerTrackerAspect" />-->
+	</aspects>
+</aspectj>
