@@ -1,0 +1,179 @@
+
+<html>
+   <head>
+      <style type="text/css">
+         .sikuli-code {
+            font-size: 20px;
+            font-family: "Osaka-mono", Monospace;
+            line-height: 1.5em;
+            display:table-cell;
+            white-space: pre-wrap;       /* css-3 */
+            white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+            white-space: -pre-wrap;      /* Opera 4-6 */
+            white-space: -o-pre-wrap;    /* Opera 7 */
+            word-wrap: break-word;       /* Internet Explorer 5.5+ */
+            width: 99%;   /* remove horizontal scroll-bar when viewing in IE7 */
+         }
+         .sikuli-code img {
+            vertical-align: middle;
+            margin: 2px;
+            border: 1px solid #ccc;
+            padding: 2px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -moz-box-shadow: 1px 1px 1px gray;
+            -webkit-box-shadow: 1px 1px 2px gray;
+         }
+         .kw {
+            color: blue;
+         }
+         .skw {
+            color: rgb(63, 127, 127);
+         }
+
+         .str {
+            color: rgb(128, 0, 0);
+         }
+
+         .dig {
+            color: rgb(128, 64, 0);
+         }
+
+         .cmt {
+            color: rgb(200, 0, 200);
+         }
+
+         h2 {
+            display: inline;
+            font-weight: normal;
+         }
+
+         .info {
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+            display: none;
+         }
+
+         a {
+            color: #9D2900;
+         }
+
+         body {
+            font-family: "Trebuchet MS", Arial, Sans-Serif;
+         }
+
+      </style>
+   </head>
+<body>
+<div class="info">
+<h2>argouml.sikuli</h2> <a href="argouml.zip">(Download this script)</a>
+</div>
+<pre class="sikuli-code">
+<span class="kw">def</span> initializeActivityDiagram():
+    <span class="skw">click</span>(Pattern(<img src="1527588546941.png" />).targetOffset(<span class="dig">5</span>,<span class="dig">6</span>))
+    <span class="skw">wait</span>(<img src="1527588598704.png" />,FOREVER)
+
+<span class="kw">def</span> addSwimlane(destination,result):
+    <span class="skw">click</span>(<img src="1527588618459.png" />)
+    <span class="skw">click</span>(destination)
+    <span class="skw">wait</span>(result,FOREVER)
+
+
+<span class="kw">def</span> nameSwimlane(destination,title,titleText):
+    <span class="skw">click</span>(destination)
+    <span class="skw">doubleClick</span>(title)
+    <span class="skw">type</span>(titleText + Key.ESC)
+
+
+<span class="kw">def</span> addState(destination,result,stateText):
+    <span class="skw">click</span>(<img src="1527590659581.png" />)
+    <span class="skw">click</span>(destination)
+    <span class="skw">type</span>(stateText + Key.ESC)
+    <span class="skw">wait</span>(result,FOREVER)
+
+
+<span class="kw">def</span> addStartingPoint(destination,result):
+    <span class="skw">click</span>(<img src="1527601255737.png" />)
+    <span class="skw">click</span>(destination)
+    <span class="skw">wait</span>(result,FOREVER)
+
+
+<span class="kw">def</span> addEndingPoint(destination,result):
+    <span class="skw">click</span>(<img src="1527602070053.png" />)
+    <span class="skw">click</span>(destination)
+    <span class="skw">wait</span>(result,FOREVER)
+
+
+<span class="kw">def</span> addJunction(destination,result):
+    <span class="skw">click</span>(<img src="1527601450476.png" />)
+    <span class="skw">click</span>(destination)
+    <span class="skw">wait</span>(result,FOREVER)
+
+
+<span class="kw">def</span> addComment(destination,result,textComment):
+    <span class="skw">click</span>(destination)
+    <span class="skw">click</span>(<img src="1527601789355.png" />)
+    <span class="skw">wait</span>(result,FOREVER)
+    <span class="skw">click</span>(comment)
+    <span class="skw">type</span>(textComment + Key.ESC)
+
+
+<span class="kw">def</span> addConnection(origin,arrow,destination,result):
+    <span class="skw">click</span>(origin)
+    <span class="skw">dragDrop</span>(arrow,destination)
+    <span class="skw">wait</span>(result,FOREVER)
+
+
+<span class="kw">def</span> editConnectionName(connection,box,connectionText,result):
+    <span class="skw">click</span>(connection)
+    <span class="skw">doubleClick</span>(box)
+    <span class="skw">type</span>(connectionText + Key.ESC)
+    <span class="skw">wait</span>(result,FOREVER)
+
+
+<span class="kw">def</span> addCallState(destination,callStateText,result):
+    <span class="skw">click</span>(<img src="1527606598296.png" />)
+    <span class="skw">click</span>(destination)
+    <span class="skw">type</span>(callStateText + Key.ESC)
+    <span class="skw">wait</span>(result,FOREVER)
+
+<span class="kw">def</span> addFlowState(destination,callFlowText,result):
+    <span class="skw">click</span>(<img src="1527606634937.png" />)
+    <span class="skw">click</span>(destination)
+    <span class="skw">type</span>(callFlowText + Key.ESC)
+    <span class="skw">wait</span>(result,FOREVER)
+
+
+<span class="kw">def</span> addFork(destination,result):
+    <span class="skw">click</span>(<img src="1527606644018.png" />)
+    <span class="skw">click</span>(destination)
+    <span class="skw">wait</span>(result,FOREVER)
+
+
+<span class="kw">def</span> addJoint(destination,result):
+    <span class="skw">click</span>(<img src="1527606651285.png" />)
+    <span class="skw">click</span>(destination)
+    <span class="skw">wait</span>(result,FOREVER)
+
+
+<span class="kw">def</span> increaseSwimlaneHeigth():
+    <span class="skw">click</span>(swimlane)
+    <span class="skw">dragDrop</span>(origin,destination)
+    <span class="skw">wait</span>(result,FOREVER)
+
+
+initializeActivityDiagram()
+addSwimlane(Pattern(<img src="1527588683108.png" />).targetOffset(-<span class="dig">385</span>,-<span class="dig">121</span>),<img src="1527588724312.png" />)
+addSwimlane(Pattern(<img src="1527588771271.png" />).targetOffset(-<span class="dig">125</span>,-<span class="dig">120</span>),<img src="1527589180284.png" />)
+addSwimlane(Pattern(<img src="1527589198270.png" />).similar(<span class="dig">0.72</span>).targetOffset(<span class="dig">52</span>,-<span class="dig">101</span>),<img src="1527589308633.png" />)
+<span class="cmt">#nameSwimlane(Pattern("1527590334183.png").targetOffset(-168,-125),Pattern("1527590366548.png").targetOffset(-161,-131),"Sales Person")</span>
+<span class="cmt">#nameSwimlane(Pattern("1527590409053.png").targetOffset(-13,-130),Pattern("1527590427683.png").targetOffset(-11,-125),"Consultant")</span>
+<span class="cmt">#nameSwimlane(Pattern("1527590453705.png").targetOffset(148,-126),Pattern("1527590466281.png").targetOffset(152,-130),"Corporate Technician")</span>
+<span class="skw">click</span>(Pattern(<img src="1528034171720.png" />).similar(<span class="dig">0.82</span>))
+addStartingPoint(Pattern(<img src="1528034641353.png" />).targetOffset(-<span class="dig">227</span>,-<span class="dig">92</span>),<img src="1528034725282.png" />)
+<span class="cmt">#addState(Pattern("1527608001421.png").targetOffset(-202,-38),result,"Call client and\nSet-Up Appointment")</span>
+
+</pre>
+</body>
+</html>
