@@ -1,0 +1,3 @@
+void org.argouml.uml.ui.ActionNewDiagram.actionPerformed(ActionEvent)#311306474#1571055631112#1571055631423
+void org.argouml.uml.diagram.ui.RadioAction.actionPerformed(ActionEvent)#158817532#1571055631708#1571055631867
+void org.argouml.uml.ui.TabProps.setTarget(Object)#153828684#1571055632215#1571055632369
